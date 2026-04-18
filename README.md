@@ -10,9 +10,9 @@
 - 📅 Hacking Since: [Year you started coding/hacking]
 
 ## Featured Projects
-- 🎲 [Project Name] — [Brief, one-sentence description of the project.] ([Language]) — github.com/TalenMud/YOUR_REPO_1
-- 🛠️ [Project Name] — [Brief, one-sentence description of the project.] ([Language]) — github.com/TalenMud/YOUR_REPO_2
-- 🤖 [Project Name] — [Brief, one-sentence description of the project.] ([Language]) — github.com/TalenMud/YOUR_REPO_3
+- 🎲 TalenMud — Personal project repository. — github.com/TalenMud/TalenMud
+- 🛠️ language-thing — Personal project repository. — github.com/TalenMud/language-thing
+- 🤖 productivity-workflow — Personal project repository. — github.com/TalenMud/productivity-workflow
 
 ## Tech & Interests
 - 🧰 Languages: [Language 1], [Language 2], [Language 3]

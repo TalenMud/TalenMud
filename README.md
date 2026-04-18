@@ -1,18 +1,18 @@
 <!-- Template:
 [![Hackathons](https://img.shields.io/badge/Hackathons-80%2B-brightgreen?style=flat-square)](https://github.com/mlhacks)
-[![Followers](https://img.shields.io/github/followers/mlhacks?label=Followers&style=flat-square)](https://github.com/mlhacks)
+[![Followers](https://img.shields.io/github/followers/TalenMud?label=Followers&style=flat-square)](https://github.com/TalenMud)
 
 ## About
-👋 Heyo, I'm [Your Name]. I'm a [Your Title] at [Your Company]. I work on [describe your work and technical focus, e.g., "web services, demos, and hackathon projects with a focus on Python, JavaScript/TypeScript, and lightweight web apps."]
+👋 Heyo, I'm Talen Mudaly. I'm a MLH Coach at Major League Hacking. I work on hackathon projects and software engineering with a focus on web services and demos.
 
-- 📍 Location: [Your City, State]
-- 🎓 Education: [Your University or School]
+- 📍 Location: United Kingdom
+- 🎓 Education: Computer Science at The University of Manchester
 - 📅 Hacking Since: [Year you started coding/hacking]
 
 ## Featured Projects
-- 🎲 [Project Name] — [Brief, one-sentence description of the project.] ([Language]) — github.com/YOUR_USERNAME/YOUR_REPO_1
-- 🛠️ [Project Name] — [Brief, one-sentence description of the project.] ([Language]) — github.com/YOUR_USERNAME/YOUR_REPO_2
-- 🤖 [Project Name] — [Brief, one-sentence description of the project.] ([Language]) — github.com/YOUR_USERNAME/YOUR_REPO_3
+- 🎲 [Project Name] — [Brief, one-sentence description of the project.] ([Language]) — github.com/TalenMud/YOUR_REPO_1
+- 🛠️ [Project Name] — [Brief, one-sentence description of the project.] ([Language]) — github.com/TalenMud/YOUR_REPO_2
+- 🤖 [Project Name] — [Brief, one-sentence description of the project.] ([Language]) — github.com/TalenMud/YOUR_REPO_3
 
 ## Tech & Interests
 - 🧰 Languages: [Language 1], [Language 2], [Language 3]

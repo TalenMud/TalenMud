@@ -6,6 +6,8 @@
 
 **Seeking a software engineering internship** — ready to learn, contribute, and build useful things with a great team.
 
+<img src="assets/talen-terminal.gif" alt="Animated terminal profile with an ASCII robot and internship-seeking message" width="100%" />
+
 ![Location: United Kingdom](https://img.shields.io/badge/Location-United%20Kingdom-1f6feb?style=flat-square)
 ![Focus: Software Engineering](https://img.shields.io/badge/Focus-Software%20Engineering-7c3aed?style=flat-square)
 
